@@ -1,3 +1,7 @@
+https://isam001.github.io/second-ringer/index.js - is script name that uses Default Cisco Webex Ringtone. 
+
+Full Credit to KevSimps - https://github.com/webex/webexplaybooks/tree/main/playbooks/wxcc-second-ringer-widget.
+
 # Second Ringer POC Demo
 
 > This is a demo widget to show how a second ringer can be played on a second audio device, like the computer speaker when an agent receives a new inbound call or consult request.  This is intended to be used when webRTC is selected as the telephony type so that the ringer can be heard if the agent is not currently wearing their headset.
